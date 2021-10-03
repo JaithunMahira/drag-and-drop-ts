@@ -1,0 +1,14 @@
+*.js
+*.json
+node_modules/
+coverage/
+dist/
+build/
+out/
+.build/
+docs/
+package.json
+client-asset-mainfest.json
+.gh-pages
+.docz
+widget-app/*
